@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "944717491884",
+    "project_id": "sample-notifications-5f39a",
+    "storage_bucket": "sample-notifications-5f39a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944717491884:android:5ec5c3eeb3b96c7c82b909",
+        "android_client_info": {
+          "package_name": "com.fowels.notifications.sample_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBoBByqf3BHZ_QDuyhE9svySWvctnaJdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
